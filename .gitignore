@@ -24,3 +24,7 @@ _testmain.go
 *.prof
 
 .idea
+/comet/comet
+/logic/logic
+/router/router
+/logic/job/job
